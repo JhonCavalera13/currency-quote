@@ -1,0 +1,32 @@
+.btn-currency {
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    height: 13px;
+    line-height: 13px;
+    color: #ffffff;
+    font-family: Helvetica;
+    width: 100%;
+    font-size: 14px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    background-color: #ff8213;
+    -webkit-box-shadow: 1px 1px 10px 0 #000000;
+    -moz-box-shadow: 1px 1px 10px 0 #000000;
+    box-shadow: 1px 1px 10px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    margin-top: 50px;
+}
+
+.btn-currency:hover {
+    background: #ff7a17;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    text-decoration: none;
+}

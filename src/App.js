@@ -1,8 +1,11 @@
+import { BoxContent } from "./components/BoxContent";
+
 function App() {
+
   return (
-    <div className="App">
-        <p>Hola</p>  
-    </div>
+    <>
+      <BoxContent />
+    </>
   );
 }
 
