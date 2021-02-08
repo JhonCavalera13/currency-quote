@@ -6,5 +6,6 @@ export const CoinTypes = new Record({
     error: null,
     rates: {},
     base: null,
-    date: null
+    date: null,
+    valuesCoins: null
 });
